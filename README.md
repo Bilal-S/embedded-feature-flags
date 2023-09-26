@@ -2,5 +2,5 @@
 This is sample implementation for embedded feature flags
 
 
-Please see imlpemtation in file 
-example.ts
+Please see implementation in file 
+[example.ts](example.ts)
